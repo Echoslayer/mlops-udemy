@@ -1,3 +1,11 @@
+.DS_Store
+Thumbs.db
+mlruns/
+.dvc/
+models/
+*.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
