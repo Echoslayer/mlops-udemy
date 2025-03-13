@@ -3,7 +3,6 @@ Thumbs.db
 mlruns/
 .dvc/
 models/
-*.zip
 
 
 # Byte-compiled / optimized / DLL files
