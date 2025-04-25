@@ -2,6 +2,11 @@
 
 ## MLflow on AWS Setup:
 
+- [主控台首頁 | 控制台首頁 | ap-southeast-2](https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2)
+- [AWS CLI](https://aws.amazon.com/tw/cli/)
+- [安裝或更新至最新版本的 AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/zh_tw/cli/latest/userguide/getting-started-install.html)
+- [雲端物件儲存 – Amazon S3 – Amazon Web Services](https://aws.amazon.com/tw/s3/)
+
 1. Login to AWS console.
 2. Create IAM user with AdministratorAccess
 3. Export the credentials in your AWS CLI by running "aws configure"
